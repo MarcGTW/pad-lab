@@ -1,0 +1,4 @@
+﻿db_path: 'data/chroma'
+collection_name: 'space_wiki'
+embedding_model: 'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2'
+batch_size: 256

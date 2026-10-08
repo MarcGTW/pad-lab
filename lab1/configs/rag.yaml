@@ -1,0 +1,5 @@
+﻿db_path: 'data/chroma'
+collection_name: 'space_wiki'
+embedding_model: 'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2'
+top_k: 5
+groq_model: 'openai/gpt-oss-120b'
